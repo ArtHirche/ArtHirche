@@ -1,8 +1,8 @@
-- 👋 hi, i'm @ArtHirche and i am a teen student from Brazil
-- 👀 I’m interested in studying only. 
-- 🌱 I am currently studying high school 
-- 💞️ I’m looking to collaborate on with what to learn and I am willing to study in a group.
-- 📫 How to reach me: Twitter: @ArtHirche & E-mail: devarthirche@gmail.com or hirche.art@outlook.com
+- 👋 hi, i'm @ArtHirche and i am a teen developer!
+- 👀 I’m interested in work with programming. 
+- 📖 I complete technical school in Logistics and made a lot courses of programming mainly focused on python.
+- 💞️ I’m looking to collaborate on with what to learn and I am willing to work in a group.
+- 📫 How to reach me: E-mail: hirche.art@outlook.com
 
 <!---
 ArtHirche/ArtHirche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
