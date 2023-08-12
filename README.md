@@ -17,9 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Currently learning Development in Python by Self
-- I’m currently open for an Intern
+- A passionate Self-taught Back-end developer.
+- Currently learning Development in FIAP, studying Systems Analysis and Development. 
+- I’m currently open for an Intern.
 
 <br><br>
 
