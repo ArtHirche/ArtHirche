@@ -17,9 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer.
+- A passionate Self-taught Fullstack developer.
 - Currently learning Development in FIAP, studying Systems Analysis and Development. 
-- I’m currently open for an Intern.
+- I’m currently open for a Job.
 
 <br><br>
 
