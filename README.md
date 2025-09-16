@@ -18,7 +18,7 @@ Currently, I'm working at Vivo (Telefónica Group), contributing to innovative p
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - 🌱 Currently learning: Scrum, software security and Microsoft servers.
-- � How to reach me: [LinkedIn](https://www.linkedin.com/in/arthurhirche/) | [E-mail](hirche.arthur@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arthurhirche/) | [E-mail](mailto:hirche.arthur@gmail.com)
 
 ## 🛠️ Tools & Technologies
 
@@ -27,14 +27,14 @@ Currently, I'm working at Vivo (Telefónica Group), contributing to innovative p
 
 ---
 
-## � GitHub Stats
+## 📈 GitHub Stats
 
 ![ArtHirche's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtHirche&show_icons=true&theme=radical)
 
-## � Most Used Languages
+## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtHirche&layout=compact&theme=radical)
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 🤓☝️
