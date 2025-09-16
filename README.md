@@ -17,7 +17,7 @@ Currently, I'm working at Vivo (Telefónica Group), contributing to innovative p
   - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🌱 Currently learning: Cloud technologies, DevOps, and AI/ML
+- 🌱 Currently learning: Scrum, software security and Microsoft servers.
 - � How to reach me: [LinkedIn](https://www.linkedin.com/in/arthurhirche/) | [E-mail](hirche.arthur@gmail.com)
 
 ## 🛠️ Tools & Technologies
